@@ -9,6 +9,7 @@ I am a passionate Junior IT Engineer currently exploring the depths of computer 
 ## 🛠 Tech Stack Used
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" width="40" height="40" />
 </p>
 
 > [!IMPORTANT]
