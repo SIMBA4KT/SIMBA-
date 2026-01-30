@@ -8,7 +8,7 @@ Hi, I'm James Simba. 🦁
 
 ## 🛠 Tech Stack Used
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" width="40" height="40" />
 </p>
 
