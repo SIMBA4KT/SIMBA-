@@ -8,7 +8,8 @@ Hi, I'm James Simba. 🦁
 ## 🛠 Tech Stack Used
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-  <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png"
+  <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Badge">
 </p>
 
 > [!IMPORTANT]
