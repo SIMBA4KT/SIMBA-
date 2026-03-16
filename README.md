@@ -1,9 +1,10 @@
 
 Hi, I'm James Simba. 🦁 
-I'm a Junior IT Engineer & Frontend Developer specializing in Vue.js, React, and Firebase. Looking forward to learn C# and MongoDB to maintain databases and provide scalable code.
+
+I'm a Junior IT Engineer & Frontend Developer.
  
 <p>
-  I am a passionate Junior IT Engineer currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences.
+  Being a passionate Junior IT Engineer who is currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences. Ask me about Javascript, Vue.js, React, and Firebase. 
 </p>
 
 ## Tech Stack Used✨
@@ -20,7 +21,7 @@ I'm a Junior IT Engineer & Frontend Developer specializing in Vue.js, React, and
 </p>
 
 > [!IMPORTANT]
-> **Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management). This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
+> **Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management).Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
 
 ---
 
@@ -28,3 +29,5 @@ I'm a Junior IT Engineer & Frontend Developer specializing in Vue.js, React, and
 * **Feature 1:** Responsive designes for mobile and desktop.
 ## 🤝 Collaboration
 I love working on open-source projects and helping clients scale their web presence.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIMBA4KT&theme=tokyonight&hide_border=true&stroke=000000)](https://git.io/streak-stats)
