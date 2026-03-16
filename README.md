@@ -1,7 +1,7 @@
 
 Hi, I'm James Simba. 🦁 
-
-I'm a junior FrontEnd Developer 🚀 
+I'm a Junior IT Engineer & Frontend Developer specializing in Vue.js, React, and Firebase. Looking forward to learn C# and MongoDB to maintain databases and provide scalable code.
+ 
 <p>
   I am a passionate Junior IT Engineer currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences.
 </p>
@@ -16,6 +16,7 @@ I'm a junior FrontEnd Developer 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind Icon" width="40" height="40">
 </p>
 
 > [!IMPORTANT]
