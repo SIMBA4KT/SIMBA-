@@ -27,8 +27,8 @@ Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
-> [!IMPORTANT]
-> **Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management).Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
+
+**Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management).Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
 
 ---
 
