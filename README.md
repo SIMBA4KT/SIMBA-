@@ -1,13 +1,15 @@
 
 Hi, I'm James Simba. 🦁 
 
-I'm a Junior IT Engineer & Frontend Developer.
+Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
  
 <p>
   Being a passionate Junior IT Engineer who is currently exploring the depths of computer science. I love the logic for building fast solutions and the surgical precision  for understanding the core skills. I'm currently expanding my territory into Modern Frontend as a juniour dev to build full-stack digital experiences. Ask me about Javascript, Vue.js, React, and Firebase. 
 </p>
 
-## Tech Stack Used✨
+## MY SKILLS/ TECH STACK.
+
+### FrontEnd
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -20,6 +22,11 @@ I'm a Junior IT Engineer & Frontend Developer.
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind Icon" width="40" height="40">
 </p>
 
+### BackEnd
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</p>
 > [!IMPORTANT]
 > **Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management).Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
 
