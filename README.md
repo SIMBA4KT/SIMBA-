@@ -12,14 +12,14 @@ Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
 ### FrontEnd
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,firebase,vue,tailwind,bootstrap&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,vue,tailwind,bootstrap&perline=6" />
   </a>
 </p>
 
 ### BackEnd
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,expressjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,expressjs&perline=6" />
   </a>
 </p>
 
