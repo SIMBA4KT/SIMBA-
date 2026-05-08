@@ -19,7 +19,7 @@ Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
 ### BackEnd
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,expressjs&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,expressjs,python&perline=6" />
   </a>
 </p>
 
