@@ -12,7 +12,7 @@ Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
 ### FrontEnd
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,vue,tailwind,bootstrap&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vue,tailwind,bootstrap&perline=6" />
   </a>
 </p>
 
@@ -23,7 +23,15 @@ Junior IT Engineer | Frontend Developer | 1st Year Engineering Student.
   </a>
 </p>
 
-**Current Focus:** I am actively **polishing my skills in React and Advanced JavaScript** (specifically Async/Await and State Management).Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
+### Devops and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&perline=6" />
+  </a>
+</p>
+
+**Current Focus:** I am actively **polishing my skills in Advanced JavaScript and Typescript.**
+Looking forward to learn C# and MongoDB to maintain databases by providing scalable code. This project is part of my journey to master clean, scalable code. I also work with other programmers to enhance efficient systems & Websites.
 
 ---
 
